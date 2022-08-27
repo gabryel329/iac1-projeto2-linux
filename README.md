@@ -2,7 +2,7 @@
 
 - Atualizar o servidor;
 
--Instalar o apache2;
+- Instalar o apache2;
 
 - Instalar o unzip;
 
