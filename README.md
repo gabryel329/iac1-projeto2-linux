@@ -1,10 +1,13 @@
-<h1>Primeiro Desafio de Projeto Linux</h1>
+- Restaurar o snapshot criado anteriormente no virtualbox;
 
-Definição do Projeto
+- Atualizar o servidor;
 
-- Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
-- O dono de todos os diretórios criados será o usuário root;
+-Instalar o apache2;
 
-Subir arquivo de script criado para a sua conta no GitHub.
-DIRETÓRIO: /var /www /html
+- Instalar o unzip;
 
+- Baixar a aplicação disponível no endereço https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip no diretório /tmp;
+
+- Copiar os arquivos da aplicação no diretório padrão do apache;
+
+- Subir arquivo de script para um repositório no GitHub.
